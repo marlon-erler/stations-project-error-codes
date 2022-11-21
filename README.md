@@ -1,2 +1,5 @@
-# stations-project-error-codes
-Error codes used by the stations project
+# Error Codes
+
+- `e1`  Command not listed in Base/config.json
+- `e2`  Failed to spawn process
+- `e3`  Subcommand not defined
